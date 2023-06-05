@@ -2,5 +2,4 @@
   "cpd-version" : "4.7.0",
   "cpd-cli-version": "13.0.0",
   "cpd-cli-build": "5"
-  "openshift-version" : "4.12.15"
 }
